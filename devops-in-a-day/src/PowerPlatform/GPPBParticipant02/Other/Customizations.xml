@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entities />
+  <Roles />
+  <Workflows />
+  <FieldSecurityProfiles />
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships />
+  <OrganizationSettings />
+  <optionsets />
+  <CustomControls />
+  <EntityDataProviders />
+  <Connectors />
+  <connectionreferences>
+    <connectionreference connectionreferencelogicalname="pp02_sharedgppb5f15f3fbb4b3ec53f61125f84db6120213e9288_b5819">
+      <connectionreferencedisplayname> GPPBParticipant02-b5819</connectionreferencedisplayname>
+      <connectorid>/providers/Microsoft.PowerApps/apis/shared_gppb-5f1-5f3fbb4b3ec53f6112-5f84db6120213e9288</connectorid>
+      <iscustomizable>1</iscustomizable>
+      <statecode>0</statecode>
+      <statuscode>1</statuscode>
+    </connectionreference>
+  </connectionreferences>
+  <Languages>
+    <Language>1042</Language>
+  </Languages>
+</ImportExportXml>
