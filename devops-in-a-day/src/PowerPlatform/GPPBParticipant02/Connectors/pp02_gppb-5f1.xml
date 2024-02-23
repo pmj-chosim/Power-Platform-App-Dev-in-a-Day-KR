@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>a502bbc1-2169-4c8a-b143-056f8ca6cee7</connectorid>
+  <description></description>
+  <displayname>GPPB_1</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>pp02_gppb-5f1</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/pp02_gppb-5f1_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/pp02_gppb-5f1_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/pp02_gppb-5f1_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/pp02_gppb-5f1_iconblob.Png</iconblob>
+</Connector>
